@@ -1,7 +1,7 @@
 # yuri-suzuki-artist-site
 Website introducing the works of sound artist Yuri Suzuki
 
-This was an academic project I worked on in my Graphics Arts I class during my Senior Year in high school (2017-2018)
+This was an academic project I worked on in my Graphics Arts I class during my Senior Year in high school (2017-2018), and my first time working with HTML.
 #
 
 ### Home
